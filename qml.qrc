@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>C:/Users/Jan/Documents/Хакатон/icns/settings-icn2.png</file>
+        <file>C:/Users/Jan/Documents/Хакатон/icns/settings-icn2(pressed).png</file>
+        <file>C:/Users/Jan/Documents/Хакатон/icns/Add-icn2(pressed).png</file>
+        <file>C:/Users/Jan/Documents/Хакатон/icns/Add-icn2.png</file>
+    </qresource>
+</RCC>
